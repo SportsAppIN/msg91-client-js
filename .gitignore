@@ -1,0 +1,9 @@
+.idea
+.vscode
+__LOCAL__
+*.jks
+.env.*
+*.env
+V8
+*-lock.json
+node_modules
